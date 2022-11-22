@@ -4,8 +4,8 @@ import "testing"
 
 var (
 	webhook *Webhook
-	token   = "fff686bfb4ba22d5915f66e6430b50495bd45169d8b5442a2f48090890a038f3"
-	secret  = "SEC56de0cad9a8975f19af8b4ad112d2cb21abc38930ffa3bf84418c2a15cf8c4c0"
+	token   = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+	secret  = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 )
 
 func init() {

@@ -3,9 +3,9 @@
 
 ## 初始化
 ```go
-package dingrobot
-
-import "testing"
+import (
+	"github.com/Mrsandman327/dingrobot-go"
+)
 
 var (
 	token   = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
